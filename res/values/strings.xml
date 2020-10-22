@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ACME Flooring and Tiling Company</string>
+    <string name="specify_inches">specify inches</string>
+    <string name="room_length">Room Length:</string>
+    <string name="calculate_the_number_of_floor_tiles_required">calculate the number of floor tiles required</string>
+    <string name="room_with_checkered_floor">Room with checkered floor</string>
+    <string name="with_10_waste">With 10% Waste</string>
+    <string name="with_5_waste">With 5% Waste</string>
+    <string name="how_many_floor_files_required">How many floor tiles required</string>
+    <string name="length_of_one_floor_tile">Length of one floor tile:</string>
+    <string name="room_width">Room Width</string>
+    <string name="answer"> </string>
+</resources>
